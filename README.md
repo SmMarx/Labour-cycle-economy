@@ -29,11 +29,11 @@ Marx proposed this solution shortly before his death, and left its full elaborat
 
 An estimation of Marx's labour-cycle foundation is described below;
 
-L -> P(Lp+Mp) ... U' -> D : V ~ Uc ... L*
+L ... P(Lp+Mp) ... U' -> D : V ~ Uc ... L*
 
 Where L is the labourer entering production with their capacity to work. Production (P) occurs when living labour (Lp) is applied to the means of production (Mp). This yields a total social product (U'), embodying all value created. Before individual distribution, society deducts a portion (D) for the replacement of means, expansion, social services and ecological regeneration. What remains is distributed to labourers via a differential voucher (V), reflecting contribution and need. The voucher mediates access to consumption goods (~ Uc), which the labourer consumes, reproducing their labour power for the next cycle (L*). The cycle restarts, but the labourer may be more skilled, more rested, or aged. The asterisk is open.
 
-While the cycle covers the logic applied throughout Marx's theoretical writing, it should not particularly be taken as gospel. 
+Please note that this is an estimation of how Marx might have described the labour-cycle. His suggestions for how socialism would look was based on observations of the capital-producing cycle, and he refrained from theorising about the next stages of economy as he was aware that his word was desisive.
 
 -----
 
